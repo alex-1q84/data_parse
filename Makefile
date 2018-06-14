@@ -8,4 +8,4 @@ clean:
 
 install:
 	cd dist
-	ls -lh
+	pip3 install data_parse-*.whl
